@@ -1,0 +1,25 @@
+{
+  "name": "debateitem",
+  "version": "1.0.0",
+  "description": "debateitem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunsunsunsunsun/debateitem.git"
+  },
+  "keywords": [
+    "taiyowayway"
+  ],
+  "author": "sunsunsunsunsun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunsunsunsunsun/debateitem/issues"
+  },
+  "homepage": "https://github.com/sunsunsunsunsun/debateitem#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
