@@ -1,6 +1,6 @@
 # debateitem
-
-> debate-item
+趣味で適当なストップウォッチ、モーション選定アプリやってみる
+vue使用
 
 ## Build Setup
 
