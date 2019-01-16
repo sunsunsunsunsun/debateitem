@@ -1,6 +1,7 @@
 # debateitem
 趣味で適当なストップウォッチ、モーション選定アプリやってみる
 vue使用
+ぼちぼち
 
 ## Build Setup
 
